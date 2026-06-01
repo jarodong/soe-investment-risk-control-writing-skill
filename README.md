@@ -1,10 +1,10 @@
-# state-owned-investment-writing-skill
+# soe-investment-risk-control-writing-skill
 
-国资投资平台投资风控材料写作与评审 Skill —— 一套面向国资投资平台（产业投资集团）的材料质量标准、写作方法论和评审框架，可直接作为 Claude Code Skill 使用。
+国资公司投资风控材料写作与评审 Skill —— 一套面向国资公司（产业投资集团）的材料质量标准、写作方法论和评审框架，可直接作为 Claude Code Skill 使用。
 
 ## 这是什么
 
-本 Skill 解决的核心问题：**国资投资平台的材料（尽调报告、领导汇报、政府请示、风控意见等）如何写得让领导看得懂、能决策、风险说得清、建议能落地。**
+本 Skill 解决的核心问题：**国资公司的材料（尽调报告、领导汇报、政府请示、风控意见等）如何写得让领导看得懂、能决策、风险说得清、建议能落地。**
 
 ## 包含文件
 
@@ -70,15 +70,15 @@
 将本仓库克隆到 Claude Code 的 skills 目录：
 
 ```bash
-git clone https://github.com/jarodong/state-owned-investment-writing-skill.git \
-  ~/.claude/skills/state-owned-investment-writing-skill
+git clone https://github.com/jarodong/soe-investment-risk-control-writing-skill.git \
+  ~/.claude/skills/soe-investment-risk-control-writing-skill
 ```
 
 重启 Claude Code 后，Skill 自动生效。
 
 ### 方式二：复制文件
 
-将 5 个 `.md` 文件复制到 `~/.claude/skills/state-owned-investment-writing-skill/` 目录即可。
+将 5 个 `.md` 文件复制到 `~/.claude/skills/soe-investment-risk-control-writing-skill/` 目录即可。
 
 ## 使用方法
 
@@ -93,7 +93,7 @@ git clone https://github.com/jarodong/state-owned-investment-writing-skill.git \
 
 ## 适用对象
 
-- 国资投资平台 / 产业投资集团的投资、风控、融资条线人员
+- 国资公司 / 产业投资集团的投资、风控、融资条线人员
 - 政府平台公司从事项目尽调、资产处置、破产重整的工作人员
 - 希望提升材料决策支撑能力的国企管理人员
 - 用 AI 辅助材料写作，但苦于输出质量不稳定的从业者
